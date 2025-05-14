@@ -168,7 +168,7 @@ export const projects = [
     description:
       "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
     image:
-      "../../../public/images/pythonWeather.png",
+      "public/images/pythonWeather.png",
     tags: [
       "Python",
       "Django",
@@ -185,7 +185,7 @@ export const projects = [
     description:
       " A visually appealing clone of the Ola webpage designed using HTML and CSS,Static page replicating the layout, design elements, and styling of the original Ola website",
     image:
-      "../../../public/images/OlaApp.png",
+      "public/images/OlaApp.png",
     tags: [
       "HTML",
       "CSS"
@@ -205,7 +205,7 @@ export const projects = [
     description:
       " A simple Powerfull task management application developed using ReactJS. Add, edit, and delete tasks with real-time updates and a clean, user-friendly interface.",
     image:
-      "../../../public/images/TodoApp.png",
+      "public/images/TodoApp.png",
     tags: [
       "HTML",
       "CSS",
@@ -226,7 +226,7 @@ export const projects = [
     description:
       "Built a dynamic food ordering website with an engaging user interface and seamless performance.item selection, and responsive design.",
     image:
-      "../../../public/images/brutusKitchen.png",
+      "public/images/brutusKitchen.png",
     tags: [
       "HTML",
       "CSS",
@@ -246,7 +246,7 @@ export const projects = [
     description:
       "  A fully functional calculator app built by using HTML, CSS, and JavaScript. Supports basic arithmetic operations (addition, subtraction, multiplication, division) with a user-friendly interface.",
     image:
-      "../../../public/images/CalculatorApp.png",
+      "public/images/CalculatorApp.png",
     tags: [
       "HTML",
       "CSS",
@@ -264,7 +264,7 @@ export const projects = [
     description:
       " The To-Do List App is a simple task management web application built using the Django framework. It allows users to Create, Read, Update, and Delete (CRUD) tasks easily in a clean and minimal interface.",
     image:
-      "../../../public/images/pythonTodo.png",
+      "public/images/pythonTodo.png",
     tags: [
       "Python",
       "Django",
