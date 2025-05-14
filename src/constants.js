@@ -1,3 +1,10 @@
+import Brutus from '../public/images/brutusKitchen.png'
+import Calcultor from '../public/images/CalculatorApp.png'
+import Ola from '../public/images/OlaApp.png'
+import PythonTodo from '../public/images/pythonTodo.png'
+import PythonWeather from '../public/images/pythonWeather.png'
+import Todo from '../public/images/TodoApp.png'
+
 export const Bio = {
   name: "Bose ",
   roles: [
@@ -167,8 +174,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-      "public/images/pythonWeather.png",
+    image:PythonWeather,
     tags: [
       "Python",
       "Django",
@@ -184,8 +190,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       " A visually appealing clone of the Ola webpage designed using HTML and CSS,Static page replicating the layout, design elements, and styling of the original Ola website",
-    image:
-      "public/images/OlaApp.png",
+    image:Ola,
     tags: [
       "HTML",
       "CSS"
@@ -204,8 +209,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       " A simple Powerfull task management application developed using ReactJS. Add, edit, and delete tasks with real-time updates and a clean, user-friendly interface.",
-    image:
-      "public/images/TodoApp.png",
+    image:Todo,
     tags: [
       "HTML",
       "CSS",
@@ -225,8 +229,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       "Built a dynamic food ordering website with an engaging user interface and seamless performance.item selection, and responsive design.",
-    image:
-      "public/images/brutusKitchen.png",
+    image:Brutus,
     tags: [
       "HTML",
       "CSS",
@@ -245,8 +248,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       "  A fully functional calculator app built by using HTML, CSS, and JavaScript. Supports basic arithmetic operations (addition, subtraction, multiplication, division) with a user-friendly interface.",
-    image:
-      "public/images/CalculatorApp.png",
+    image:Calcultor,
     tags: [
       "HTML",
       "CSS",
@@ -263,8 +265,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       " The To-Do List App is a simple task management web application built using the Django framework. It allows users to Create, Read, Update, and Delete (CRUD) tasks easily in a clean and minimal interface.",
-    image:
-      "public/images/pythonTodo.png",
+    image:PythonTodo,
     tags: [
       "Python",
       "Django",
