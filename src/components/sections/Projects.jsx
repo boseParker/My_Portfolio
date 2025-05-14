@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { projects } from "../../data/constants";
+import { projects } from "../../constants";
 import ProjectCard from "../cards/ProjectCard";
 
 const Container = styled.div`

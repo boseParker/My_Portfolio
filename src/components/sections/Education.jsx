@@ -3,7 +3,7 @@ import { VerticalTimeline } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import styled from "styled-components";
 import EducationCard from "../cards/EducationCard";
-import { education } from "../../data/constants";  // assuming you have the education data here
+import { education } from "../../constants";  // assuming you have the education data here
 
 const Container = styled.div`
   display: flex;

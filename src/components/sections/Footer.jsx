@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Bio } from "../../data/constants";
+import { Bio } from "../../constants";
 import {
   FacebookRounded,
   Instagram,

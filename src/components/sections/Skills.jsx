@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { skills } from "../../data/constants";
+import { skills } from "../../constants";
 import  Tilt  from "react-parallax-tilt";
 
 const Container = styled.div`
