@@ -256,8 +256,8 @@ export const projects = [
       "Java Script"
     ],
     category: "web app",
-    github: "https://mycalculator22nov.netlify.app",
-    webapp: "https://github.com/boseParker/Calcultor",
+    webapp: "https://mycalculator22nov.netlify.app",
+    github: "https://github.com/boseParker/Calcultor",
   },
  
   {
