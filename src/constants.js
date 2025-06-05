@@ -4,6 +4,7 @@ import Ola from '../public/images/OlaApp.png'
 import PythonTodo from '../public/images/pythonTodo.png'
 import PythonWeather from '../public/images/pythonWeather.png'
 import Todo from '../public/images/TodoApp.png'
+import HealthCareDashboard from '../public/images/healthcareDashboard.png'
 
 export const Bio = {
   name: "Bose ",
@@ -274,6 +275,25 @@ export const projects = [
     category: "web app",
     github: "https://github.com/boseParker/Python_Todo",
     webapp: "https://todo22nov.netlify.app",
+    
+
+
+  },
+  {
+    id: 7,
+    title: "HealthCare Dashboard",
+    date: "May 2025 - May 2025",
+    description:
+      "The Healthcare Dashboard is a responsive and interactive user interface built using ReactJS, designed to visualize and manage healthcare data effectively for hospitals or clinics.",
+    image:HealthCareDashboard,
+    tags: [
+      "ReactJs",
+      "HTML",
+      "CSS"
+    ],
+    category: "web app",
+    github: "https://github.com/boseParker/HelathcareDashboard",
+    webapp: "https://healthcare-dashboard22nov.netlify.app/",
     
 
 
