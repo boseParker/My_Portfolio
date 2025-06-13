@@ -5,7 +5,7 @@ import PythonTodo from '../public/images/pythonTodo.png'
 import PythonWeather from '../public/images/pythonWeather.png'
 import Todo from '../public/images/TodoApp.png'
 import HealthCareDashboard from '../public/images/healthcareDashboard.png'
-
+import EmployeeManagement from '../public/images/employeeManagement.png'
 export const Bio = {
   name: "Bose ",
   roles: [
@@ -294,6 +294,27 @@ export const projects = [
     category: "web app",
     github: "https://github.com/boseParker/HelathcareDashboard",
     webapp: "https://healthcare-dashboard22nov.netlify.app/",
+    
+
+
+  },
+  
+  {
+    id: 8,
+    title: "Empolyee Management",
+    date: "May 2025 - May 2025",
+    description:
+      "Employee Management System is a web application built using Flask, SQLite, and Bootstrap that allows users to add, update, delete, and search employee records. It features a responsive UI and is deployed on Render with GitHub integration.",
+    image:EmployeeManagement,
+    tags: [
+      "Python",
+      "Sql",
+      "Bootstrap",
+      "HTML"
+    ],
+    category: "web app",
+    github: "https://github.com/boseParker/Empployee-management",
+    webapp: "https://empployee-management.onrender.com/",
     
 
 
