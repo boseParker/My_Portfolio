@@ -274,7 +274,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/boseParker/Python_Todo",
-    webapp: "https://todo22nov.netlify.app",
+    webapp: "https://python-todo-kazj.onrender.com/",
     
 
 
